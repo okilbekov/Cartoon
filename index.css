@@ -75,7 +75,7 @@
     width: 100px;
     height: 36px;
 
-    animation: ship 60s linear infinite;
+    animation: ship 6s linear infinite;
 }
 
 @keyframes ship {
